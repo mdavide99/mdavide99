@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Davide Marinotto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Davide 👋
+I'm a software engineer with diversified skills in many computer science and web development's branches.
 
-<!---
-mdavide99/mdavide99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I feel like a true full-stack developer with good last front-end technology knowledge like react and equally deep design knowledge of back-end with trading framework like express.js.
+
+I have also some experience in optimization and maintenance of existing systems developed in the most popular languages such as java.
+
+### 📫 [Contact me](mailto:davidemarinotto99@gmail.com)
